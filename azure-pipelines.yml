@@ -21,4 +21,5 @@ steps:
   inputs:
     connectionType: 'OpenShift Connection Service'
     openshiftService: 'ocp-sandbox'
-    version: 'oc status'
+    version: '4.2'
+    cmd: 'oc status'
