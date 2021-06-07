@@ -17,4 +17,3 @@ steps:
     openshiftService: 'ocp-sandbox'
     cmd: 'oc version'
     uselocalOc: true
-
